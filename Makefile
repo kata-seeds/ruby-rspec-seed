@@ -5,6 +5,6 @@ dependencies:
 	bundle check || bundle install
 
 test:
-	bundle exec ruby test/*_test.rb
+	bundle exec rspec spec
 
 .PHONY: all dependencies test

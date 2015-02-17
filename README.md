@@ -1,12 +1,12 @@
-# [Kata Seeds](https://github.com/kata-seeds): Ruby + MiniTest
-[![Build Status](https://travis-ci.org/kata-seeds/ruby-minitest-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/ruby-minitest-seed)
+# [Kata Seeds](https://github.com/kata-seeds): Ruby + RSpec
+[![Build Status](https://travis-ci.org/kata-seeds/ruby-rspec-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/ruby-rspec-seed)
 
 ## Getting Started
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/ruby-minitest-seed.git
-    cd ruby-minitest-seed
+    git clone https://github.com/kata-seeds/ruby-rspec-seed.git
+    cd ruby-rspec-seed
 
 Install dependencies and run your tests with `make`:
 
