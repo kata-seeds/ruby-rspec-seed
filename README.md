@@ -1,4 +1,4 @@
-# [Kata Seeds](https://github.com/kata-seeds): Ruby + RSpec
+# [Kata Seeds](http://kata-seeds.github.io): Ruby + RSpec
 [![Build Status](https://travis-ci.org/kata-seeds/ruby-rspec-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/ruby-rspec-seed)
 
 ## Getting Started
